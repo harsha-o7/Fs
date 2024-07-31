@@ -6,7 +6,7 @@
     "file",
     "sharing"
   ],
-  "repository": "https://github.com/CodeXBotz/File-Sharing-Bot",
+  "repository": "https://github.com/harsha-o7/fs",
   "logo": "https://ibb.co/FgPVtzw",
   "env": {
     "TG_BOT_TOKEN": {
@@ -15,7 +15,7 @@
     },
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID",
-      "value": "1250450587"
+      "value": ""
     },
     "APP_ID":{
       "description": "your app id, take it from my.telegram.org",
@@ -23,11 +23,11 @@
     },
     "DATABASE_URL": {
       "description": "Paste your mongo db url",
-      "value": "url"
+      "value": ""
     },
     "DATABASE_NAME":{
       "description": "Enter your DATABASE_NAME ",
-      "value": "filesharexbot"
+      "value": ""
     },
     "API_HASH":{
       "description": "your api hash, take it from my.telegram.org",
@@ -39,7 +39,7 @@
     },
     "FORCE_SUB_CHANNEL":{
       "description": "id of the channel or group, if you want enable force sub feature else put 0",
-      "value": "0"
+      "value": ""
     },
     "START_MESSAGE": {
       "description": "Optional: start message of bot, use HTML parsemode format",
